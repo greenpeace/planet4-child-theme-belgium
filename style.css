@@ -489,71 +489,6 @@ td.name {
 
 }
 
-#cta-donate {
-  position: relative;
-  float: left;
-  width: 100%;
-  height: auto;
-  margin: 0;
-  padding: 0;
-  background-image: url(https://www.greenpeace.org/static/planet4-belgium-stateless/2020/10/97a32d1b-donate-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: center;
-  background-attachment: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  box-shadow: 0 2px 5px rgba(0,0,0,.25);
-  transition: 0.5s;
-}
-
-#cta-donate:hover {
-  box-shadow: 0 2px 5px rgba(0,0,0,.75);
-  transition: 0.5s;
-}
-
-#cta-donate-text {
-  position: relative;
-  float: left;
-  width: 90%;
-  height: auto;
-  margin: 5%;
-  margin-bottom: 0;
-  padding: 0;
-  background: none;
-  text-shadow: 0 2px 5px rgba(0,0,0,.75);
-}
-
-#cta-donate-button {
-  position: relative;
-  float: left;
-  width: auto;
-  height: auto;
-  margin: 5%;
-  margin-top: 0;
-  padding: 2.5%;
-  padding-top: 1.5%;
-  padding-bottom: 1.5%;
-  background: #f36d3a;
-  box-shadow: 0 2px 5px rgba(0,0,0,.25);
-  font-weight: 700;
-  transition: 0.5s;
-  border-radius: 4px;
-}
-
-#cta-donate-button:hover {
-  background: #ee562d;
-  transition: 0.5s;
-}
-
-.ctaDonateBtn , .ctaDonateBtn:hover {
-  color: #fff;
-  font-family: Roboto,sans-serif;
-  text-decoration: none;
-}
-
 .post-content img.alignnone {
   margin: 0;
 }
@@ -592,14 +527,7 @@ td.name {
 
 .call-to-action-link {color: #074365; border: 1px solid #074365; padding: 15px; border-radius: 4px;}
 
-a.btn.btn-donate {
-  color: #ffffff;
-  background-color: #f36d3a;
-}
-
 #gdpr-comments-label {display: none}
-
-
 
 /* EXPLORE ICONS - START */
 
