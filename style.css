@@ -12,11 +12,6 @@ Tags: light, accessibility-ready
 Text Domain: planet4-child-theme-belgium
 */
 
-::selection {
-  background-color: #074365;
-  color: #fff;
-}
-
 a.external-link:after {
   display: none;
 }
@@ -492,28 +487,6 @@ td.name {
 .post-content img.alignnone {
   margin: 0;
 }
-
-/* SCROLL - START */
-
-::-webkit-scrollbar {
-  width: 15px;
-}
-
-::-webkit-scrollbar-track {
-  background: #eee;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #074365;
-  border-radius: 1000px;
-  border: 3px solid #eee;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #F36D3A;
-}
-
-/* SCROLL - END */
 
 .external_link {display: none;}
 
