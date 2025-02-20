@@ -33,11 +33,9 @@ a.external-link:after {
   padding-left: 5%;
   padding-right: 5%;
   color: #fff;
-  background: #f36d3a;
-  box-shadow: 0 2px 5px rgba(0,0,0,.25);
+  background: #ffe100;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
   border: 0;
 }
 
@@ -55,11 +53,9 @@ a.external-link:after {
   padding-left: 5%;
   padding-right: 5%;
   color: #fff;
-  background: #ee562d;
-  box-shadow: 0 2px 5px rgba(0,0,0,.75);
+  background: #ffe100;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
   border: 0;
 }
 
@@ -77,11 +73,9 @@ a.external-link:after {
   padding-left: 5%;
   padding-right: 5%;
   color: #fff;
-  background: #f36d3a;
-  box-shadow: 0 2px 5px rgba(0,0,0,.25);
+  background: #ffe100;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .cta-blog-button:hover {
@@ -98,11 +92,9 @@ a.external-link:after {
   padding-left: 5%;
   padding-right: 5%;
   color: #fff;
-  background: #ee562d;
-  box-shadow: 0 2px 5px rgba(0,0,0,.75);
+  background: #ffe100;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .cta-blog-button-mid {
@@ -118,13 +110,12 @@ a.external-link:after {
   padding-bottom: 2.5%;
   padding-left: 5%;
   padding-right: 5%;
-  color: #074365;
+  color: #1f4912;
   background: none;
-  border: 2px solid #074365;
+  border: 2px solid #1f4912;
   display: block;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .cta-blog-button-mid:hover {
@@ -141,12 +132,11 @@ a.external-link:after {
   padding-left: 5%;
   padding-right: 5%;
   color: #fff;
-  background: #074365;
-  border: 2px solid #074365;
+  background: #1f4912;
+  border: 2px solid #1f4912;
   display: block;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .mid-button-fix {
@@ -214,7 +204,6 @@ td.name {
   background: #4172B8;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .shareFacebook:hover {
@@ -234,7 +223,6 @@ td.name {
   background: #3461a1;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .shareTwitter {
@@ -253,7 +241,6 @@ td.name {
   background: #1DA1F2;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .shareTwitter:hover {
@@ -272,7 +259,6 @@ td.name {
   background: #0c8cdb;
   font-weight: 700;
   transition: 0.5s;
-  border-radius: 4px;
 }
 
 .shareWhatsapp {
@@ -412,7 +398,6 @@ td.name {
     background: #25D366;
     font-weight: 700;
     transition: 0.5s;
-    border-radius: 4px;
   }
 
   .shareWhatsapp:hover {
@@ -433,7 +418,6 @@ td.name {
     background: #19b654;
     font-weight: 700;
     transition: 0.5s;
-    border-radius: 4px;
   }
 
   .shareWhatsapp-small {
@@ -496,10 +480,6 @@ td.name {
 
 /*.share-btn.whatsapp {display: none;}*/
 
-.share-buttons .share-btn {box-shadow: none; border-radius: 4px;}
-
-.call-to-action-link {color: #074365; border: 1px solid #074365; padding: 15px; border-radius: 4px;}
-
 #gdpr-comments-label {display: none}
 
 /* EXPLORE ICONS - START */
@@ -511,8 +491,8 @@ td.name {
   height: auto;
   margin: 0;
   padding: 0;
-  background: #074365;
-  border: 1px solid #074365;
+  background: #1f4912;
+  border: 1px solid #1f4912;
   border-radius: 25px;
 }
 
@@ -556,13 +536,11 @@ td.name {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  box-shadow: 0;
   transition: 0.3s;
   border-radius: 100%;
 }
 
 .exploreIcons-item-image:hover {
-  box-shadow: 0 2px 5px rgba(0,0,0,.75);
   transition: 0.3s;
   border-radius: 100%;
 }
@@ -619,12 +597,10 @@ td.name {
   text-transform: uppercase;
   text-decoration: none;
   color: #fff;
-  background: #f36d3a;
+  background: #ffe100;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0,0,0,.25);
   transition: 0.3s;
   font-family: Roboto,sans-serif;
 }
@@ -636,13 +612,11 @@ td.name {
   height: auto;
   margin: 0;
   padding: 12.5px;
-  background: #ee562d;
+  background: #ffe100;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   text-align: center;
-  border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0,0,0,.75);
   transition: 0.3s;
   font-family: Roboto,sans-serif;
 }
@@ -671,8 +645,8 @@ td.name {
     height: auto;
     margin: 0;
     padding: 0;
-    background: #074365;
-    border: 1px solid #074365;
+    background: #1f4912;
+    border: 1px solid #1f4912;
     border-radius: 25px;
   }
 
@@ -716,13 +690,11 @@ td.name {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-shadow: 0;
     transition: 0.3s;
     border-radius: 100%;
   }
 
   .exploreIcons-item-image:hover {
-    box-shadow: 0 2px 5px rgba(0,0,0,.75);
     transition: 0.3s;
     border-radius: 100%;
   }
@@ -767,12 +739,10 @@ td.name {
     text-transform: uppercase;
     text-decoration: none;
     color: #fff;
-    background: #f36d3a;
+    background: #ffe100;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    border-radius: 4px;
-    box-shadow: 0 2px 5px rgba(0,0,0,.25);
     transition: 0.3s;
     font-family: Roboto,sans-serif;
   }
@@ -784,13 +754,11 @@ td.name {
     height: auto;
     margin: 0;
     padding: 2.5%;
-    background: #ee562d;
+    background: #ffe100;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     text-align: center;
-    border-radius: 4px;
-    box-shadow: 0 2px 5px rgba(0,0,0,.75);
     transition: 0.3s;
     font-family: Roboto,sans-serif;
   }
@@ -817,27 +785,6 @@ td.name {
   font-size: 1.5em!important;
   line-height: 25px!important;
 }
-.carousel-wrapper-header {
-  box-shadow: var(--button-donate--box-shadow,0 2px 5px rgba(0,0,0,.25));
-}
-
-a.btn.btn-donate {
-  box-shadow: var(--button-donate--box-shadow,0 0px 5px rgba(0,0,0,.25));
-}
-
-a.btn.btn-donate:hover {
-  box-shadow: var(--button-donate--box-shadow,0 0px 5px rgba(0,0,0,.5));
-}
-
-.columns-block.block-style-image .column-wrap img, .columns-block.block-style-tasks .column-wrap img {
-  border-radius: 4px;
-}
-
-.article-list-item-image-max-width .topicwise-article-image {
-  border-radius: 4px;
-}
-
-img {border-radius: 4px!important;}
 
 .accordion-block .accordion-content .panel {
   background: none;
